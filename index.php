@@ -9,7 +9,7 @@ $APPLICATION->SetTitle("Новости");
 	array(
 		"IBLOCK_ID" => "1",
 		"IBLOCK_TYPE" => "news",
-		"NEWS_COUNT" => "4",
+		"NEWS_COUNT" => "6",
 		"SORT_BY1" => "ID",
 		"SORT_ORDER1" => "ASC",
 		"FIELD_CODE" => array(
